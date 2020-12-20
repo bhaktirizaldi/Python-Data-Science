@@ -1,4 +1,5 @@
 # Data Preprocessing Template
+# can be copy-pasted to start the prediction model creation
 
 # Importing the libraries
 import numpy as np
@@ -6,7 +7,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Importing the dataset
-dataset = pd.read_csv('Data.csv')
+dataset = pd.read_csv('filename.csv')
 X = dataset.iloc[:, :-1].values
 y = dataset.iloc[:, -1].values
 
