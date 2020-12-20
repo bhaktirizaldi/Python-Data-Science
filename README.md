@@ -15,5 +15,4 @@ Index:
 7. Natural Language Processing
 8. Deep Learning
 9. Dimensionality Reduction
-10.1 Model Selection
-10.2 Boosting
+
