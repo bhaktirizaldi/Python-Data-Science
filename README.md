@@ -1,6 +1,11 @@
 # Python-Data-Science
-Python Code Library
-for Learning and Implementation
+Python Data Science Code Library
+
+for self use Learning and Implementation
+Never connected to local module, only act as Remote storage.
+Local module operation carried out by manually copy-paste the  code to Local IDE
+
+Index:
 1. Data Preprocessing
 2. Regression
 3. Classification
